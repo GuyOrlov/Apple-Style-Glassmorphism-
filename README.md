@@ -70,7 +70,6 @@ This template lets you build:
 - Apple Sidebar UI inspiration
 - CodePen glassmorphism dashboards
 - **Original sidebar idea** adapted from [blahhhuuei’s CodePen](https://codepen.io/blahhhuuei/pen/KwpQVGW)
-- Special thanks: **Guy Orlov | Data Analyst**
 
 ---
 
